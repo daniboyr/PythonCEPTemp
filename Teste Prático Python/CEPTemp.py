@@ -1,12 +1,6 @@
-"""
-Teste Prático Python Maio de 2022
-
-2) Retornar a temperatura atual de um CEP específico
-getTemperature (CEP)
-Ex: getTemperature (“95020-360”)
+""")
 Retorna a temperatura atual no local do CEP especificado
-Você pode utilizar mais de uma API ou webservice de CEP e previsão do tempo.
-Fique à vontade para escolher.
+Foram utilizados duas API para coletar o CEP através do endereço digitado.
 """
 import requests
 
