@@ -1,6 +1,4 @@
-# 1) Retornar as Meta tags de uma página
-# getMetas(URL)
-# Ex: getMetas(“https://enttry.com.br/contato”)
+# 1) Retorna as Meta tags de uma página
 # Retorna um json com um array (com nome do meta e content) de metas extraídos do código html
 # da página com endereço web passada por parâmetro em URL.
 # (Meta tags são elementos no html utilizados para armazenar informações técnicas
